@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.lft{
+width: 400px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+.rght{
+display: flex;
+justify-content: space-between;
+align-items: center;
+width: 500px;
+}
+.works{
+    text-align: center;
+}
+.birinchi{
+    background-image: url(./Rectangle\ 48.png);
+    height: 620px;
+    color: white;
+    text-align: center;
+}
+.okey{
+    display: flex;
+    justify-content: center;
+}
+.Playstore{
+    width: 160px;
+padding: 20px;
+background-color: #FA4A0C; 
+border-radius: 30px;
+margin-right: 20px;
+}
+.Appstore{
+    margin-left: 20px;
+    width: 160px;
+padding: 20px;
+background-color: transparent;
+border: 1px solid white;
+border-radius: 30px;
+}
+.fphone{
+    display: flex;
+    justify-content: center;
+    
+}
+.orange{
+color: #FA4A0C;
+}
+.phone{
+position: relative;
+width: 500px;
+top: -300px;
+}
+.heh{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.hah{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+.huh{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.isg{
+    width: 500px;
+}
+.left{
+
+}
+.right{
+width: 300px;
+}
+.comeback{
+    background-image: url(./Rectangle\ 47.png);
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+.okay{
+    display: flex;
+    justify-content: center;
+}
+.Playtore{
+    width: 160px;
+padding: 20px;
+background-color: #FA4A0C; 
+border-radius: 15px;
+margin-right: 20px;
+}
+.Apptore{
+    margin-left: 20px;
+    width: 160px;
+padding: 20px;
+background-color: transparent;
+border: 1px solid white;
+border-radius: 15px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px;
+}
+.fot{
+    width: 200px;
+    margin-left: 50px;
+}
+.social{
+    width: 200px;
+    height: 50px;
+}
